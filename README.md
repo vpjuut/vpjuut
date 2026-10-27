@@ -18,8 +18,8 @@ Neither side is public yet.
 
 **Work, at Business Finland:** enterprise-level software, data and AI.
 
-- The data analytics platform and solution development, from infrastructure to services and data products.
-- GenAI and agentic AI solutions, from production applications to proofs of concept.
+- GenAI and agentic AI software development, from production applications to proofs of concept.
+- Enterprise data analytics platform and solution development, from infrastructure to services and data products.
 - Azure, Power Platform, Fabric and GitHub platforms, their governance and solution development.
 
 ---
