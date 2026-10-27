@@ -1,6 +1,6 @@
 # Vesa-Pekka Juutilainen
 
-**Data, AI & solution architect in Helsinki.** I lead architecture and analytics development at [Business Finland](https://www.businessfinland.fi/en/) and bring agentic AI into business use.
+**Data, AI & solution architect in Helsinki.** I lead architecture and solution development at [Business Finland](https://www.businessfinland.fi/en/) on multiple fronts and bring agentic AI into business use.
 
 20+ years in the Finnish public sector, from statistics and empirical research through DW/BI to cloud platforms, software development and AI. I work between business and IT, from architecture and roadmaps to leading teams and doing the work myself.
 
