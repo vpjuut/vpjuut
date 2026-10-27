@@ -18,7 +18,7 @@ Neither side is public yet.
 
 **Work, at Business Finland:** enterprise-level software, data and AI.
 
-- The data platform and analytics development, from architecture and hands-on work to leading a team of nearly 20 developers.
+- The data analytics platform and solution development, from infrastructure to services and data products.
 - GenAI and agentic AI solutions, from production applications to proofs of concept.
 - Azure, Power Platform, Fabric and GitHub platforms, their governance and solution development.
 
