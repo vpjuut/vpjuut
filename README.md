@@ -20,7 +20,7 @@ Neither side is public yet.
 
 - GenAI and agentic AI software development, from production applications to proofs of concept.
 - Enterprise data analytics platform and solution development, from infrastructure to services and data products.
-- Azure, Power Platform, Fabric and GitHub platforms, their governance and solution development.
+- Azure, Power Platform, Fabric, M365 and GitHub platforms, their governance and solution development.
 
 ---
 
